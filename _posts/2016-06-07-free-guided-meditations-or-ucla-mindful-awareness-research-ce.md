@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-06-09T07:53:57.619Z'
+datePublished: '2016-06-09T08:48:55.634Z'
 sourcePath: >-
   _posts/2016-06-07-free-guided-meditations-or-ucla-mindful-awareness-research-ce.md
 isBasedOnUrl: 'http://marc.ucla.edu/body.cfm?id=22'
@@ -16,7 +16,7 @@ keywords:
   - mindfulness
 related: []
 author: []
-dateModified: '2016-06-09T07:53:57.364Z'
+dateModified: '2016-06-09T08:48:54.945Z'
 title: ''
 app_links: []
 publisher:
@@ -26,7 +26,7 @@ publisher:
   domain: marc.ucla.edu
 description: 'how often do we get something valuable for free? '
 inLanguage: en
-starred: true
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
